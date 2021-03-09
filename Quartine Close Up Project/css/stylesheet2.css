@@ -1,0 +1,29 @@
+header{
+  text-align: center;
+  color: #cddbe7;
+  background-color: #2e4a62;
+}
+
+body{
+  text-align: center;
+  background-color: #cddbe7;
+  font-family: Georgia, serif;
+  color: #456f93;
+  border: dotted 4px #253a4e ;
+}
+a{
+  color: #6993b8 ;
+}
+hr{
+  color: #253a4e ;
+}
+footer{
+  background-color: #2e4a62;
+  color: #6993b8 ;
+}
+img{
+  border: 4px solid #2e4a62 ;
+}
+table{
+  margin-left:auto;margin-right: auto;
+}
